@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+table {
+    display: inline-block;
+    border-collapse: collapse;
+}
+
+td {
+    font-size: 10px;
+    width: 30px;
+    min-width: 30px;
+    height: 30px;
+    min-height: 30px;
+    border: 1px solid;
+}
